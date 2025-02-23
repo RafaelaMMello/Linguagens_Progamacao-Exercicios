@@ -1,2 +1,2 @@
 # JSExercicios
-Esse repositório contém exercícios organizados por cada lista de exercícios, cada uma em uma branch específica.
+Esse repositório contém cada lista de exercícios, organizadas cada uma em uma branch específica.
