@@ -1,2 +1,2 @@
-# JSExercicios
-Esse repositório contém cada lista de exercícios, organizadas cada uma em uma branch específica.
+# Lista 2 - Conceitos de JavaScript
+Neste repositório há os exercicios da lista do dia 25/02
